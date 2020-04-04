@@ -5,7 +5,7 @@ with open('README.md') as readme_file:
 
 setup_args = dict(
     name='ClassAttendanceManager',
-    version='1.0',
+    version='1.1',
     description='A simple python script to manage students attendance in class in terminal.',
     long_description_content_type="text/markdown",
     long_description=README,
